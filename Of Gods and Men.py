@@ -23,4 +23,4 @@ if ['y', 'Y', 'Yes', 'YES', 'yes']:
             print("I am the salt in the sea, the dirt on the ground, the leaves on the trees, the wind in the air.")
             str(input("What do you say? [Where am I?] : "))
             if ["Where am I?"]:
-                print ("You're on board The Cape Wrath, headed for Fort Joy.")
+                print ("You're on board The Cape Wrath, headed for Brimstone Keep.")
